@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(190, 246, 173);
+}
+
+header img {
+    width: 100%;
+    height: 100px;
+    display: block;
+    object-fit: cover;
+}
